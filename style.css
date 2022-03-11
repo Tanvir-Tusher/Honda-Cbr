@@ -36,8 +36,17 @@
      background-color: #E76F51;
      border: none;
      color: white;
-     
+}
+.login-btn:hover{
 
+     height: 44px;
+     width: 91px;
+     left: 408px;
+     border-radius: 5px;
+     padding: 10px, 24px, 10px, 24px;
+     background-color: #d84520;
+     border: none;
+     color: white;
 }
 .purchase-btn button{
      height: 44px;
@@ -47,6 +56,17 @@
      border-radius: 5px;
      padding: 10px;
      background-color: #E76F51;
+     border: none;
+     color: white;
+}
+.purchase-btn button:hover{
+     height: 44px;
+     width: 168px;
+     left: 156px;
+     top: 413px;
+     border-radius: 5px;
+     padding: 10px;
+     background-color: #d84520;
      border: none;
      color: white;
 }
