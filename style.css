@@ -1,6 +1,5 @@
 .home{
     background-color: #264653; 
-    
     width: auto;
 }
 .container{
@@ -25,11 +24,9 @@
      color: #E0E0E0;
 }
 .container ul li{
-     padding-left: 36px;
-     
-
+     padding-left: 30px;
 }
-.login-btn button{
+.login-btn{
 
      height: 44px;
      width: 91px;
