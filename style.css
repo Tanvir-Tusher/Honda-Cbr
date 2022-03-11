@@ -1,0 +1,125 @@
+.home{
+    background-color: #264653; 
+    
+    width: auto;
+}
+.container{
+     margin-bottom: 100px;
+}
+.nav-item{
+     color: white;
+}
+.honda-cbr p{
+     color: #E0E0E0;
+
+}
+
+.honda-cbr h1{
+     color: white;
+}
+.honda{
+     width: 480px;
+     
+}
+.honda p{
+     color: #E0E0E0;
+}
+.container ul li{
+     padding-left: 36px;
+     
+
+}
+.login-btn button{
+
+     height: 44px;
+     width: 91px;
+     left: 408px;
+     border-radius: 5px;
+     padding: 10px, 24px, 10px, 24px;
+     background-color: #E76F51;
+     border: none;
+     color: white;
+     
+
+}
+.purchase-btn button{
+     height: 44px;
+     width: 168px;
+     left: 156px;
+     top: 413px;
+     border-radius: 5px;
+     padding: 10px;
+     background-color: #E76F51;
+     border: none;
+     color: white;
+}
+.feature{
+     height: 72px;
+     width: 442px;
+     left: 0px;
+     top: 0px;
+     border-radius: nullpx;
+
+}
+.collection{
+     color: #E76F51;
+     
+}
+.bikes .greyscale img{
+      filter: grayscale(100%);
+}
+.read-more{
+     height: 55px;
+     width: 160px;
+     top: 482px;
+     border-radius: 5px;
+     padding: 15px;
+     background-color: white;
+     border: 2px solid #E76F51;
+     color: #E76F51;
+}
+.read-more:hover{
+     height: 55px;
+     width: 160px;
+     top: 482px;
+     border-radius: 5px;
+     padding: 15px;
+     background-color: #E76F51;
+     color: white;
+}
+.card{
+     padding: 20px;
+     border: 20px;
+     border: none;
+     box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+     border-radius: 10px;    
+}
+.clients .card{
+     width: 323px;
+}
+.clients span{
+     color: #E76F51;
+     
+}
+.card-body p i{
+     color:  #E77C40;
+}
+.question span{
+     color: #E76F51;
+}
+footer{
+     border-radius: 0px;
+     background-color: black;
+     color: white;
+     padding: 25px 0;
+}
+footer li{
+    font-weight: 400;
+}
+.copyright{
+     margin-left: 27px;
+}
+.footer-img h5{
+     margin-left: 12px;
+}
+
